@@ -1,6 +1,5 @@
-const departMinutes = 5;
-let temps = departMinutes * 60;
-
+const depart = prompt("Entrez le temps que vous souhaitez pour votre timer");
+let temps = depart * 60;
 const timerElement = document.querySelector(".timer");
 
 setInterval(() => {

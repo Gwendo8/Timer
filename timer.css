@@ -9,5 +9,11 @@ html {
   
   .timer {
     font-weight: bold;
-    font-size: 4em;
+    font-size: 6em;
+    border: 5px solid rgb(196, 255, 255);
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    padding-top: 70px;
   }
