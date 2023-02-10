@@ -4,7 +4,7 @@ html {
     justify-content: center;
     align-items: center;
     height: 100%;
-    background-color: gray;
+    background-color: black;
   }
   
   .timer {
@@ -16,4 +16,5 @@ html {
     height: 200px;
     text-align: center;
     padding-top: 70px;
+    color: rgb(0, 255, 234);
   }
